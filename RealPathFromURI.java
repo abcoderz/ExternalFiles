@@ -1,5 +1,3 @@
-package school.campusconnect.utils;
-
 import android.annotation.TargetApi;
 import android.content.ContentUris;
 import android.content.Context;
